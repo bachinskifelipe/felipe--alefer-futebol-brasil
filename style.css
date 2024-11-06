@@ -12,5 +12,13 @@ color: rgb(42, 122, 228);
 }
 
 section{
-backgroud: rgb(184,156,213)
+backgroud: rgb(184,156,213);
+padding-bottom: 80px;
+padding-top: 80px
+display: flex;
+justify-content: center;
+}
+
+div{
+margin-right: 20px;
 }
