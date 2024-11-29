@@ -1,6 +1,6 @@
 body {
 color: orange;
-backgroud:blue;
+background:blue;
 margin: 0px;
 font-family: "Sofia Sans Extra Condensed", sans-serif;
 }
@@ -13,7 +13,7 @@ color: rgb(42, 122, 228);
 }
 
 section{
-backgroud: rgb(184,156,213);
+background: rgb(184,156,213);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
